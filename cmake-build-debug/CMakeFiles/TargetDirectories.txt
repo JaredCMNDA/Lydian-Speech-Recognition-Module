@@ -1,0 +1,3 @@
+C:/Users/jared/OneDrive/Desktop/Lydian/cmake-build-debug/CMakeFiles/Lydian.dir
+C:/Users/jared/OneDrive/Desktop/Lydian/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jared/OneDrive/Desktop/Lydian/cmake-build-debug/CMakeFiles/rebuild_cache.dir

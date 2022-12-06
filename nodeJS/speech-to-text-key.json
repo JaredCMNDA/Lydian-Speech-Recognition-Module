@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "speech-to-text-370213",
+  "private_key_id": "409f0081d8189dfa71e25148890de973b80e57b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8dJYBfRwIqeVR\nlpTZfz4cT59UEl4Rs2mG8nrcrfzg5CuBPlVC0cbAvrY9YNxK+mjQZ7JUd126qstP\ngmKHhlHtvWWdEuBOvD5i6FJQVPG7OAB/bzTdYapRjIuCgB85/nVENAB8dxYSmHTp\nupbtiHxYwPZp2O7DroDz1IYaQISgqotXE3XTjwb8zHTNOCVkZ0xOf6CH65xtlqEP\n6Uj3DpHItKFok/kxSZfg1X7rvHauTqE/3JrfMAA2DD8LlmLTJFq9ZKxCVwMBOyIU\nSeWMoO63qQyPYcazbM8OK14Jg7cX5pC6aDYcdLkC30tu5InMwssQ45pS4I0z51iT\n7FjpS00xAgMBAAECggEAEhCKZwjhOK7he59HtCwTbfcPbqmGkSONrmj8sD3w1zVj\n+rL5DQtLBiOZ2DsaTskfZjfEcz6QcmHoFH5q97L/VD7TGFoMfJukjspWhpsH43KA\nMLb+Hij8IK5MWrVxmNdskf26nLO1HtH0pglz6X/LbJ4NmNKZu5H1DDpvYuGTnQtl\n4CWX2h00Qf5SmpB/lDfeYVvzBauEs2vKPVWtz6DhdJrgpEA1jmTDxPXPycDsBGfX\nPbd3J5bno3DHbZ9z1i6ejQS+wQ8KL2K5TifDdPatq36ttfDxNAH6CTeDNLyj2ES5\nmmUpPgP03FjAHwGOoPXm3B+ZDRpEnXzBcA27Uu8lCQKBgQDmsz64QifvSgruGln+\nJKHFpDbUwo4pSmpCnzTaDrhxFjP8kMSeqG0zYtYmk89V1UyGfVPqbsKupSIfJGEc\nnvKuxx5K4y2kARDt596pAEDgSlMydLO9uOoNzzT9A/+VunELYt89dL2LhVFfO2d/\n4uOVoOZNiP1RSWT55K7jFol+GQKBgQDRH1jhGBDQSPrEO0VeXEioQoKGIjQMIKmV\nbEV7462PR5CKt3hmXQVHcXK0cS7c+XjI1WxwZb96SteeeSadqhJleSYEtoYdTwfz\nRePo2k4cSRA4ppnL6nkizhd0z6E7qw4xYsV8QHdH4mrqBprJRbUE1MrwwWs8NhYe\nfWUv09P62QKBgQDeVTDE8zz5aCpQfiTswPEHQNN3CGlpccYmnriYzkcC9Zr0dbCI\nF1nmhAJO+3R+DCrMEkylSklldtADo1PT+Xt45X1UPszlmgFuxl/YD952SisUHVR8\nK5Gl7WPr08alziDUEF2FJNTneXyKgv2kSk17Dq3lW3iGtm0SSEojoLyxQQKBgCc8\nQmi5Iy5xAtueYz15AwjOsb6I3EsKNccbMU41QXMIck4UbjqGaV8mIedI9QnwpIDJ\nyjasYGiJcjsBcAVUy27OdBueQztsgIlcK46cptsXujtmxqRDscad9DiuXAnd5iPN\n7E+LqNWL3ZNa+d+ZfIUTh5/0KjJ501yVGk8G51bBAoGAVDfFX+36M+Hz4aZGMwpI\nzHBQDITVnbHqRowR0sII5f3Je30eEXE0qz8ai0uYB/Fr0obmuBVT+/IApaJWf9KT\n7sNveO/wP7y00D3OJwAmTJenRM3tOuciJDDwqhtPLP8h+8tr91v/SwUXGKhOZBn7\nGELNps+t2j1euSt+pJwp8Ac=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lydian-1@speech-to-text-370213.iam.gserviceaccount.com",
+  "client_id": "108716449592303804740",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lydian-1%40speech-to-text-370213.iam.gserviceaccount.com"
+}

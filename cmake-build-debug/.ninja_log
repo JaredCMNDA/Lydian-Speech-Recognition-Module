@@ -1,0 +1,11 @@
+# ninja log v5
+3	2481	6915194815128315	CMakeFiles/Lydian.dir/main.cpp.obj	8058cb9ffeeb5e98
+2207	5080	6915282160267666	Lydian.exe	e4ed0c37bca0b03c
+2	2206	6915282158127177	CMakeFiles/Lydian.dir/ButtonHandler.cpp.obj	e2fc0988224fe100
+14	2093	6915193995056091	CMakeFiles/Lydian.dir/PositionFunctions.cpp.obj	538d804946affdf2
+9	2040	6915194561448210	CMakeFiles/Lydian.dir/AssetHandler.cpp.obj	514d76144a62517a
+2	1621	6920447477021014	CMakeFiles/Lydian.dir/main.cpp.obj	8058cb9ffeeb5e98
+10	1651	6920447477361090	CMakeFiles/Lydian.dir/PositionFunctions.cpp.obj	538d804946affdf2
+16	1663	6920447477641153	CMakeFiles/Lydian.dir/AssetHandler.cpp.obj	514d76144a62517a
+1622	2540	6920447486489150	CMakeFiles/Lydian.dir/ButtonHandler.cpp.obj	e2fc0988224fe100
+2541	4807	6920447489489522	Lydian.exe	e12a2c19e167f529
